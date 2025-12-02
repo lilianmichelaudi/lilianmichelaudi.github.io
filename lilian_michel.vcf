@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Lilian Michel
+N:Michel;Lilian;;;
+TITLE:Audi Brand Specialist
+ORG:Audi Downtown Toronto
+TEL;TYPE=CELL,VOICE:6475453311
+EMAIL;TYPE=WORK:lmichel@audidowntowntoronto.ca
+ADR;TYPE=WORK:;;328 Bayview Ave;Toronto;;Canada;
+URL:https://lilianmichel.com
+URL;TYPE=LinkedIn:https://www.linkedin.com/in/lilianmichel/
+PHOTO;ENCODING=URI:https://lilianmichel.com/headshot.jpg
+END:VCARD
